@@ -1,0 +1,2 @@
+ata0-master: type=disk, path="boot.img", cylinders=1, heads=1, spt=2
+boot: disk

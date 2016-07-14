@@ -1,0 +1,4 @@
+boot.img
+*.o
+*.elf
+*.bin
